@@ -1,1 +1,2 @@
 # unityPratice
+本仓库用来存储unity入门练习文件
